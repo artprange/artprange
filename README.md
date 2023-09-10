@@ -1,6 +1,6 @@
 ### Hey you!
 
-As I'm transitioning careers, I'm making my way through JS and React mostly. Every line of code is something new I learned!
+As I'm transitioning careers, I'm making my way through React, mostly. There's bids of SQL and other languages. Every line of code is something new I learned!
 
 As an Attorney, I got 5 years of experience and durring that time I had plenty of memories, learned a lot of stuff and surely made great collegues and I'm sure this new path will be as great as my time at law.
 
