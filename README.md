@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Arthur
+<h1  align="center">Hello there! I'm Arthur
 
 <p align="center">
   <a href="https://github.com/artprange/readme-typing-svg">
@@ -29,7 +29,7 @@
   <br>
 
 
-<hr>
+<hr style="color: #800080;">
 
 ###  GitHub Profile Stats:
 
@@ -42,7 +42,7 @@
   <br>
  
 </p>
-<hr>
+<hr style="color: #800080;">
 
 ### Programming and Markup Languages:
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -68,13 +68,13 @@
 
 
 
-  <hr>
+<hr style="color: #800080;">
 
 <div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Art's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=artprange&bg_color=FFFFFF00&color=00b37e&line=#800080&point=fff&hide_border=true&style="max-width: 100%;margin-right: 5px;" /></a>
 
 </div>
-<hr>
+<hr style="color: #800080;">
  
 
 
