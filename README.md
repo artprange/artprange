@@ -35,7 +35,7 @@
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=artprange&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php,c&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php,c,c#,c++&exclude_repo=Pacman-AI">
 <!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&theme=blue-green)-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=artprange&theme=midnight-purple&hide_border=true&background=FFFFFF00">
   <br>
@@ -62,6 +62,17 @@
 ![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![sql](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
+<hr>
+
+
+<div> 
+  <h3>Drop a line</h3>
+  <a href="https://www.linkedin.com/in/artprange" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  <a href="mailto:art.p.prange@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<br>
+<br>
 
 
 
