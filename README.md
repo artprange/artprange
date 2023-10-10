@@ -1,11 +1,11 @@
+<h1 align="center">Hello there! I'm Arthur
 
-<h1 align="center">Hello there!
 <p align="center">
-  <a href="https://github.com/karolinagusmao/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FrontEnd%20%20Developer%20;Code%20mode:%20ON%20&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/artprange/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FrontEnd%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1500&size=24" /></a>
 </p>
 
-<p align="center" size=20px>
+<h4 align="center" >
   About me:
   <br>
   <br>
@@ -19,16 +19,15 @@
   <br>
    As a hobby, I'm really getting into coding some personal projects and learn some new stuff;
   <br>
-  📚 I'm an eager learner and I try to learn something everytime I code.;
+   I'm an eager learner and I try to learn something everytime I code.;
   <br>
+</h4>
+
+
 </p>
 
-
-</p>
-
   <br>
-<img src="https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"  style="max-width:50%;
-  max-height:300px;margin-right: 5px;"/></a>
+
 
 <hr>
 
