@@ -9,12 +9,7 @@
   About me:
   <br>
   <br>
-  Fluent in English and Portuguese, I'll not starve in Spanish and Dutch! 
-  <br>
-   Former Attorney at Law;
-  <br>
-   After 5 years working as a Barrister, I changed paths and here I am, setting this new jorney as a Dev;
-  <br>
+
    Currently working as a Jr. Front end Developer and aiming to a Full Stack transition;
   <br>
    As a hobby, I'm really getting into coding some personal projects and learn some new stuff;
