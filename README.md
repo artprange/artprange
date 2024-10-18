@@ -11,10 +11,7 @@
 
 </p>
 
-  <br>
 
-
-<hr style="color: #800080;">
 
 ###  GitHub Profile Stats:
 
