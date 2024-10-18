@@ -6,18 +6,7 @@
 </p>
 
 
-<h4 align="center" >
-  About me:
-  <br>
-  <br>
 
-   Currently working as a Jr. Front end Developer and aiming to a Full Stack transition;
-  <br>
-   As a hobby, I'm really getting into coding some personal projects and learn some new stuff;
-  <br>
-   I'm an eager learner and I try to learn something everytime I code.;
-  <br>
-</h4>
 
 
 </p>
