@@ -2,13 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/artprange/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FrontEnd%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1500&size=24" /></a>
-</p>
-
-
-
-
-
+    <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1500&size=24" /></a>
+  </p>
 </p>
 
 
@@ -21,27 +16,15 @@
 <!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&theme=blue-green)-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=artprange&theme=midnight-purple&hide_border=true&background=FFFFFF00">
   <br>
-  <br>
- 
+  <br> 
 </p>
-
-
-
-
 
 <div> 
   <h3>Drop a line</h3>
-  <a href="https://www.linkedin.com/in/artprange" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
+  <a href="https://www.linkedin.com/in/artprange" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="mailto:art.p.prange@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <br>
 <br>
-
-
-
-
-
 
 <hr style="color: #800080;">
 
