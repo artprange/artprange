@@ -1,3 +1,16 @@
+<h1  align="center">Hello there! I'm Arthur
+
+<p align="center">
+  <a href="https://github.com/artprange/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1500&size=24" /></a>
+</p>
+</p>
+
+
+
+
+
+
 ###  GitHub Profile Stats:
 
 <p align="center">
