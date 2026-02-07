@@ -18,10 +18,10 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php,c,c#,c++&exclude_repo=Pacman-AI">
 <!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&theme=blue-green)-->
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=artprange&theme=midnight-purple&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
+<!--   <br>
+  <br>-->
 
-</p> 
+<!-- </p> -->
 
 
 
