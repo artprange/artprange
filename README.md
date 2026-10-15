@@ -1,50 +1,52 @@
-<h1  align="center">Hello there! I'm Arthur
+<h1 align="center">Hey, I'm Arthur 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/artprange/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20;&font=Roboto%20Code&center=true&width=440&height=45&color=00b37e&vCenter=true&pause=1500&size=24" /></a>
+  <strong>Full Stack Developer</strong>
+  <br />
+  Building web applications with React, Node.js, and NestJS.
 </p>
-</p>
-
-
-
-
-
-
-<!--###  GitHub Profile Stats:
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=artprange&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&layout=compact&hide_border=true&theme=midnight-purple&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php,c,c#,c++&exclude_repo=Pacman-AI">
-<!--  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artprange&theme=blue-green)-->
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=artprange&theme=midnight-purple&hide_border=true&background=FFFFFF00">
-<!--   <br>
-  <br>-->
+  <a href="https://www.linkedin.com/in/artprange">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:art.p.prange@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email Arthur" />
+  </a>
+</p>
 
-<!-- </p> -->
+---
 
+### 👨‍💻 About me
 
+I'm a full stack developer working with **React**, **Node.js**, and **NestJS**, using **SQL** and **PostgreSQL** to power data-driven applications.
 
+I enjoy connecting the pieces of a web application — from the interface users interact with to the APIs and databases behind it.
 
+### 🛠️ Tech stack
 
-<div> 
-  <h3>Drop a line</h3>
-  <a href="https://www.linkedin.com/in/artprange" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logoColor=white" alt="SQL" />
+</p>
 
+### 📈 GitHub activity
 
-  <a href="mailto:art.p.prange@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<br>
-<br>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=artprange&bg_color=00000000&color=00b37e&line=00b37e&point=8957e5&hide_border=true"
+    alt="Arthur's GitHub contribution activity graph"
+    width="100%"
+  />
+</p>
 
+---
 
-
-
-
-
-<hr style="color: #800080;">
-
-<div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Art's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=artprange&bg_color=FFFFFF00&color=00b37e&line=#800080&point=fff&hide_border=true&style="max-width: 100%;margin-right: 5px;" /></a>
-
-</div>
-<hr style="color: #800080;">
+<p align="center">
+  Let's build something together.
+  <br />
+  <a href="mailto:art.p.prange@gmail.com">Get in touch</a>
+</p>
