@@ -33,22 +33,4 @@ I enjoy connecting the pieces of a web application — from the interface users 
   <img src="https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logoColor=white" alt="SQL" />
 </p>
 
-<h3>📈 GitHub activity</h3>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=artprange&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=00b37e&amp;point=8957e5&amp;area=true&amp;area_color=00b37e&amp;hide_border=true"
-      alt="Arthur's GitHub activity graph"
-      width="100%"
-    />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Let's build something together.
-  <br />
-  <a href="mailto:art.p.prange@gmail.com">Get in touch</a>
-</p>
